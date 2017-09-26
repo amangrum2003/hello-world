@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+just another engineer trying to expand on skills
